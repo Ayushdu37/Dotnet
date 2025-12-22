@@ -9,8 +9,8 @@ class BankAccount
 
     public BankAccount(int AccNum, double initial_balance)
     {
-        account_number = AccNum;
-        balance = initial_balance;
+        this.account_number = AccNum;
+        this.balance = initial_balance;
     }
 
     public void Deposit(double amount)
