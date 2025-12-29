@@ -1,0 +1,45 @@
+D:\.net\day-9\bin\Debug\net10.0\day-9.exe
+D:\.net\day-9\bin\Debug\net10.0\day-9.deps.json
+D:\.net\day-9\bin\Debug\net10.0\day-9.runtimeconfig.json
+D:\.net\day-9\bin\Debug\net10.0\day-9.dll
+D:\.net\day-9\bin\Debug\net10.0\day-9.pdb
+D:\.net\day-9\obj\Debug\net10.0\day-9.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\day-9\obj\Debug\net10.0\day-9.AssemblyInfoInputs.cache
+D:\.net\day-9\obj\Debug\net10.0\day-9.AssemblyInfo.cs
+D:\.net\day-9\obj\Debug\net10.0\day-9.csproj.CoreCompileInputs.cache
+D:\.net\day-9\obj\Debug\net10.0\day-9.sourcelink.json
+D:\.net\day-9\obj\Debug\net10.0\day-9.dll
+D:\.net\day-9\obj\Debug\net10.0\refint\day-9.dll
+D:\.net\day-9\obj\Debug\net10.0\day-9.pdb
+D:\.net\day-9\obj\Debug\net10.0\day-9.genruntimeconfig.cache
+D:\.net\day-9\obj\Debug\net10.0\ref\day-9.dll
+D:\.net\day-9 (learning)\day-9\bin\Debug\net10.0\day-9.exe
+D:\.net\day-9 (learning)\day-9\bin\Debug\net10.0\day-9.deps.json
+D:\.net\day-9 (learning)\day-9\bin\Debug\net10.0\day-9.runtimeconfig.json
+D:\.net\day-9 (learning)\day-9\bin\Debug\net10.0\day-9.dll
+D:\.net\day-9 (learning)\day-9\bin\Debug\net10.0\day-9.pdb
+D:\.net\day-9 (learning)\day-9\obj\Debug\net10.0\day-9.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\day-9 (learning)\day-9\obj\Debug\net10.0\day-9.AssemblyInfoInputs.cache
+D:\.net\day-9 (learning)\day-9\obj\Debug\net10.0\day-9.AssemblyInfo.cs
+D:\.net\day-9 (learning)\day-9\obj\Debug\net10.0\day-9.csproj.CoreCompileInputs.cache
+D:\.net\day-9 (learning)\day-9\obj\Debug\net10.0\day-9.sourcelink.json
+D:\.net\day-9 (learning)\day-9\obj\Debug\net10.0\day-9.dll
+D:\.net\day-9 (learning)\day-9\obj\Debug\net10.0\refint\day-9.dll
+D:\.net\day-9 (learning)\day-9\obj\Debug\net10.0\day-9.pdb
+D:\.net\day-9 (learning)\day-9\obj\Debug\net10.0\day-9.genruntimeconfig.cache
+D:\.net\day-9 (learning)\day-9\obj\Debug\net10.0\ref\day-9.dll
+D:\.net\day-9\learning\day-9\bin\Debug\net10.0\day-9.exe
+D:\.net\day-9\learning\day-9\bin\Debug\net10.0\day-9.deps.json
+D:\.net\day-9\learning\day-9\bin\Debug\net10.0\day-9.runtimeconfig.json
+D:\.net\day-9\learning\day-9\bin\Debug\net10.0\day-9.dll
+D:\.net\day-9\learning\day-9\bin\Debug\net10.0\day-9.pdb
+D:\.net\day-9\learning\day-9\obj\Debug\net10.0\day-9.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\day-9\learning\day-9\obj\Debug\net10.0\day-9.AssemblyInfoInputs.cache
+D:\.net\day-9\learning\day-9\obj\Debug\net10.0\day-9.AssemblyInfo.cs
+D:\.net\day-9\learning\day-9\obj\Debug\net10.0\day-9.csproj.CoreCompileInputs.cache
+D:\.net\day-9\learning\day-9\obj\Debug\net10.0\day-9.sourcelink.json
+D:\.net\day-9\learning\day-9\obj\Debug\net10.0\day-9.dll
+D:\.net\day-9\learning\day-9\obj\Debug\net10.0\refint\day-9.dll
+D:\.net\day-9\learning\day-9\obj\Debug\net10.0\day-9.pdb
+D:\.net\day-9\learning\day-9\obj\Debug\net10.0\day-9.genruntimeconfig.cache
+D:\.net\day-9\learning\day-9\obj\Debug\net10.0\ref\day-9.dll

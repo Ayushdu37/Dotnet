@@ -1,0 +1,30 @@
+D:\.net\day-9 (learning)\BankAccountManagement\bin\Debug\net10.0\BankAccountManagement.exe
+D:\.net\day-9 (learning)\BankAccountManagement\bin\Debug\net10.0\BankAccountManagement.deps.json
+D:\.net\day-9 (learning)\BankAccountManagement\bin\Debug\net10.0\BankAccountManagement.runtimeconfig.json
+D:\.net\day-9 (learning)\BankAccountManagement\bin\Debug\net10.0\BankAccountManagement.dll
+D:\.net\day-9 (learning)\BankAccountManagement\bin\Debug\net10.0\BankAccountManagement.pdb
+D:\.net\day-9 (learning)\BankAccountManagement\obj\Debug\net10.0\BankAccountManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\day-9 (learning)\BankAccountManagement\obj\Debug\net10.0\BankAccountManagement.AssemblyInfoInputs.cache
+D:\.net\day-9 (learning)\BankAccountManagement\obj\Debug\net10.0\BankAccountManagement.AssemblyInfo.cs
+D:\.net\day-9 (learning)\BankAccountManagement\obj\Debug\net10.0\BankAccountManagement.csproj.CoreCompileInputs.cache
+D:\.net\day-9 (learning)\BankAccountManagement\obj\Debug\net10.0\BankAccountManagement.sourcelink.json
+D:\.net\day-9 (learning)\BankAccountManagement\obj\Debug\net10.0\BankAccountManagement.dll
+D:\.net\day-9 (learning)\BankAccountManagement\obj\Debug\net10.0\refint\BankAccountManagement.dll
+D:\.net\day-9 (learning)\BankAccountManagement\obj\Debug\net10.0\BankAccountManagement.pdb
+D:\.net\day-9 (learning)\BankAccountManagement\obj\Debug\net10.0\BankAccountManagement.genruntimeconfig.cache
+D:\.net\day-9 (learning)\BankAccountManagement\obj\Debug\net10.0\ref\BankAccountManagement.dll
+D:\.net\day-9\BankAccountManagement\bin\Debug\net10.0\BankAccountManagement.exe
+D:\.net\day-9\BankAccountManagement\bin\Debug\net10.0\BankAccountManagement.deps.json
+D:\.net\day-9\BankAccountManagement\bin\Debug\net10.0\BankAccountManagement.runtimeconfig.json
+D:\.net\day-9\BankAccountManagement\bin\Debug\net10.0\BankAccountManagement.dll
+D:\.net\day-9\BankAccountManagement\bin\Debug\net10.0\BankAccountManagement.pdb
+D:\.net\day-9\BankAccountManagement\obj\Debug\net10.0\BankAccountManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\day-9\BankAccountManagement\obj\Debug\net10.0\BankAccountManagement.AssemblyInfoInputs.cache
+D:\.net\day-9\BankAccountManagement\obj\Debug\net10.0\BankAccountManagement.AssemblyInfo.cs
+D:\.net\day-9\BankAccountManagement\obj\Debug\net10.0\BankAccountManagement.csproj.CoreCompileInputs.cache
+D:\.net\day-9\BankAccountManagement\obj\Debug\net10.0\BankAccountManagement.sourcelink.json
+D:\.net\day-9\BankAccountManagement\obj\Debug\net10.0\BankAccountManagement.dll
+D:\.net\day-9\BankAccountManagement\obj\Debug\net10.0\refint\BankAccountManagement.dll
+D:\.net\day-9\BankAccountManagement\obj\Debug\net10.0\BankAccountManagement.pdb
+D:\.net\day-9\BankAccountManagement\obj\Debug\net10.0\BankAccountManagement.genruntimeconfig.cache
+D:\.net\day-9\BankAccountManagement\obj\Debug\net10.0\ref\BankAccountManagement.dll
