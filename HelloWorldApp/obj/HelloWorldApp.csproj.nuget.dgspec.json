@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.net\\HelloWorldApp\\HelloWorldApp.csproj": {}
+    "d:\\.net\\HelloWorldApp\\HelloWorldApp.csproj": {}
   },
   "projects": {
-    "D:\\.net\\HelloWorldApp\\HelloWorldApp.csproj": {
+    "d:\\.net\\HelloWorldApp\\HelloWorldApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.net\\HelloWorldApp\\HelloWorldApp.csproj",
+        "projectUniqueName": "d:\\.net\\HelloWorldApp\\HelloWorldApp.csproj",
         "projectName": "HelloWorldApp",
-        "projectPath": "D:\\.net\\HelloWorldApp\\HelloWorldApp.csproj",
+        "projectPath": "d:\\.net\\HelloWorldApp\\HelloWorldApp.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\.net\\HelloWorldApp\\obj\\",
+        "outputPath": "d:\\.net\\HelloWorldApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

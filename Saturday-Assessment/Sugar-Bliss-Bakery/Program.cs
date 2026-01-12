@@ -1,4 +1,5 @@
-﻿class Program
+﻿using System.Diagnostics;
+public class Program
 {
     public static Chocolate CalculateDiscountedPrice(Chocolate chocolate)
     {
@@ -17,6 +18,7 @@
     }
     public static void Main()
     {
+        Trace.WriteLine("Application execution started");
         Chocolate chocolate = new Chocolate();
 
         Console.WriteLine("Enter the Flavour");
