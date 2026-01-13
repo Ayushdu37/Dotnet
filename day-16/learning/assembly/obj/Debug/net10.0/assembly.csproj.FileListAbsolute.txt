@@ -1,0 +1,15 @@
+D:\.net\day-16\learning\assembly\bin\Debug\net10.0\assembly.exe
+D:\.net\day-16\learning\assembly\bin\Debug\net10.0\assembly.deps.json
+D:\.net\day-16\learning\assembly\bin\Debug\net10.0\assembly.runtimeconfig.json
+D:\.net\day-16\learning\assembly\bin\Debug\net10.0\assembly.dll
+D:\.net\day-16\learning\assembly\bin\Debug\net10.0\assembly.pdb
+D:\.net\day-16\learning\assembly\obj\Debug\net10.0\assembly.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\day-16\learning\assembly\obj\Debug\net10.0\assembly.AssemblyInfoInputs.cache
+D:\.net\day-16\learning\assembly\obj\Debug\net10.0\assembly.AssemblyInfo.cs
+D:\.net\day-16\learning\assembly\obj\Debug\net10.0\assembly.csproj.CoreCompileInputs.cache
+D:\.net\day-16\learning\assembly\obj\Debug\net10.0\assembly.sourcelink.json
+D:\.net\day-16\learning\assembly\obj\Debug\net10.0\assembly.dll
+D:\.net\day-16\learning\assembly\obj\Debug\net10.0\refint\assembly.dll
+D:\.net\day-16\learning\assembly\obj\Debug\net10.0\assembly.pdb
+D:\.net\day-16\learning\assembly\obj\Debug\net10.0\assembly.genruntimeconfig.cache
+D:\.net\day-16\learning\assembly\obj\Debug\net10.0\ref\assembly.dll
