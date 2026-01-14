@@ -76,7 +76,7 @@ namespace UltraEnterpriseSDLC
             stageBoard[previousStage].Remove(workItem);
             stageBoard[workItem.Stage].Add(workItem);
 
-            auditLedger.AddLast(new AuditLog($"Executed WorkItem {workItem} from {previousStage} to {workItem.Stage}"));
+            auditLedger.AddLast(new AuditLog($"Executed WorkItem {workItem.Id} from {previousStage} to {workItem.Stage}"));
         }
         public void RegisterTestSuite(string suiteId)
         {
@@ -87,7 +87,7 @@ namespace UltraEnterpriseSDLC
         {
             var snapshot = new BuildSnapshot(version);
             rollBackStack.Push(snapshot);
-            auditLedger.AddLast(new AuditLog($"Deployed version {snapshot}"));
+            auditLedger.AddLast(new AuditLog($"Deployed version {snapshot.Version}"));
         }
         public void RollbackRelease()
         {

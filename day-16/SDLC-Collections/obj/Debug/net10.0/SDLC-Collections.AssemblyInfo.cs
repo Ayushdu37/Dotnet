@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SDLC-Collections")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42fa5f199249ae51ab65e23b813249729fc1c533")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7833868cef85a7f0828a96da96097bbc80933eb1")]
 [assembly: System.Reflection.AssemblyProductAttribute("SDLC-Collections")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SDLC-Collections")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
