@@ -1,0 +1,15 @@
+D:\.net\day-16\SDLC-Collections\obj\Debug\net10.0\SDLC-Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\day-16\SDLC-Collections\obj\Debug\net10.0\SDLC-Collections.AssemblyInfoInputs.cache
+D:\.net\day-16\SDLC-Collections\obj\Debug\net10.0\SDLC-Collections.AssemblyInfo.cs
+D:\.net\day-16\SDLC-Collections\obj\Debug\net10.0\SDLC-Collections.csproj.CoreCompileInputs.cache
+D:\.net\day-16\SDLC-Collections\obj\Debug\net10.0\SDLC-Collections.sourcelink.json
+D:\.net\day-16\SDLC-Collections\bin\Debug\net10.0\SDLC-Collections.exe
+D:\.net\day-16\SDLC-Collections\bin\Debug\net10.0\SDLC-Collections.deps.json
+D:\.net\day-16\SDLC-Collections\bin\Debug\net10.0\SDLC-Collections.runtimeconfig.json
+D:\.net\day-16\SDLC-Collections\bin\Debug\net10.0\SDLC-Collections.dll
+D:\.net\day-16\SDLC-Collections\bin\Debug\net10.0\SDLC-Collections.pdb
+D:\.net\day-16\SDLC-Collections\obj\Debug\net10.0\SDLC-Collections.dll
+D:\.net\day-16\SDLC-Collections\obj\Debug\net10.0\refint\SDLC-Collections.dll
+D:\.net\day-16\SDLC-Collections\obj\Debug\net10.0\SDLC-Collections.pdb
+D:\.net\day-16\SDLC-Collections\obj\Debug\net10.0\SDLC-Collections.genruntimeconfig.cache
+D:\.net\day-16\SDLC-Collections\obj\Debug\net10.0\ref\SDLC-Collections.dll
