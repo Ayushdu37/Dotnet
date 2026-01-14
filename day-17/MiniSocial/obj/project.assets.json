@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.net\\day-16\\SDLC-Collections\\SDLC-Collections.csproj",
-      "projectName": "SDLC-Collections",
-      "projectPath": "D:\\.net\\day-16\\SDLC-Collections\\SDLC-Collections.csproj",
+      "projectUniqueName": "D:\\.net\\day-17\\MiniSocial\\MiniSocial.csproj",
+      "projectName": "MiniSocial",
+      "projectPath": "D:\\.net\\day-17\\MiniSocial\\MiniSocial.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\.net\\day-16\\SDLC-Collections\\obj\\",
+      "outputPath": "D:\\.net\\day-17\\MiniSocial\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
