@@ -1,0 +1,25 @@
+[
+  {
+    "Username": "Ayush",
+    "Email": "ayushdu37@gmail.com",
+    "Following": "User: Ayush \u003Cayushdu37@gmail.com\u003E",
+    "Posts": [
+      {
+        "Content": "CONTENT",
+        "CreatedAt": "2026-01-16T16:08:44.2152558Z"
+      }
+    ]
+  },
+  {
+    "Username": "Ayush Dubey",
+    "Email": "ayushdu37@gmail.com",
+    "Following": "User: Ayush Dubey \u003Cayushdu37@gmail.com\u003E",
+    "Posts": []
+  },
+  {
+    "Username": "Yash Joshi\\",
+    "Email": "yashjoshi123@gmail.com",
+    "Following": "User: Yash Joshi\\ \u003Cyashjoshi123@gmail.com\u003E",
+    "Posts": []
+  }
+]

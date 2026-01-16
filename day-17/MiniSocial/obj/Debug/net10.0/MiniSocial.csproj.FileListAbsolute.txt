@@ -1,0 +1,15 @@
+D:\.net\day-17\MiniSocial\obj\Debug\net10.0\MiniSocial.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\day-17\MiniSocial\obj\Debug\net10.0\MiniSocial.AssemblyInfoInputs.cache
+D:\.net\day-17\MiniSocial\obj\Debug\net10.0\MiniSocial.AssemblyInfo.cs
+D:\.net\day-17\MiniSocial\obj\Debug\net10.0\MiniSocial.csproj.CoreCompileInputs.cache
+D:\.net\day-17\MiniSocial\obj\Debug\net10.0\MiniSocial.sourcelink.json
+D:\.net\day-17\MiniSocial\bin\Debug\net10.0\MiniSocial.exe
+D:\.net\day-17\MiniSocial\bin\Debug\net10.0\MiniSocial.deps.json
+D:\.net\day-17\MiniSocial\bin\Debug\net10.0\MiniSocial.runtimeconfig.json
+D:\.net\day-17\MiniSocial\bin\Debug\net10.0\MiniSocial.dll
+D:\.net\day-17\MiniSocial\bin\Debug\net10.0\MiniSocial.pdb
+D:\.net\day-17\MiniSocial\obj\Debug\net10.0\MiniSocial.dll
+D:\.net\day-17\MiniSocial\obj\Debug\net10.0\refint\MiniSocial.dll
+D:\.net\day-17\MiniSocial\obj\Debug\net10.0\MiniSocial.pdb
+D:\.net\day-17\MiniSocial\obj\Debug\net10.0\MiniSocial.genruntimeconfig.cache
+D:\.net\day-17\MiniSocial\obj\Debug\net10.0\ref\MiniSocial.dll
