@@ -1,0 +1,12 @@
+D:\.net\day-18\learning\Calculator\bin\Debug\net10.0\Calculator.deps.json
+D:\.net\day-18\learning\Calculator\bin\Debug\net10.0\Calculator.dll
+D:\.net\day-18\learning\Calculator\bin\Debug\net10.0\Calculator.pdb
+D:\.net\day-18\learning\Calculator\obj\Debug\net10.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\day-18\learning\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfoInputs.cache
+D:\.net\day-18\learning\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfo.cs
+D:\.net\day-18\learning\Calculator\obj\Debug\net10.0\Calculator.csproj.CoreCompileInputs.cache
+D:\.net\day-18\learning\Calculator\obj\Debug\net10.0\Calculator.sourcelink.json
+D:\.net\day-18\learning\Calculator\obj\Debug\net10.0\Calculator.dll
+D:\.net\day-18\learning\Calculator\obj\Debug\net10.0\refint\Calculator.dll
+D:\.net\day-18\learning\Calculator\obj\Debug\net10.0\Calculator.pdb
+D:\.net\day-18\learning\Calculator\obj\Debug\net10.0\ref\Calculator.dll
