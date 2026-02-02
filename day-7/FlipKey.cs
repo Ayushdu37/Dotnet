@@ -1,57 +1,49 @@
-// using System.Text;
+using System;
 
-// public class Cleanser
-// {
-//     public static string CleanseAndInvert(string input)
-//     {
-//         if(input.Length < 6)
-//         {
-//             Console.WriteLine("Invalid Input");
-//         }
+public class Cleanser
+{
+    public static string CleanseAndInvert(string input)
+    {
+        if (string.IsNullOrEmpty(input) || input.Length < 6)
+        {
+            return "";
+        }
 
-//         if (string.IsNullOrEmpty(input))
-//         {
-//             Console.WriteLine("Invalid Input");
-//         }
+        foreach (char ch in input)
+        {
+            if (!char.IsLetter(ch))
+            {
+                return "";
+            }
+        }
 
-//         input = input.ToLower();
+        input = input.ToLower();
 
-//         string temp = "";
+        string temp = "";
+        foreach (char ch in input)
+        {
+            int ascii = (int)ch;
+            if (ascii % 2 != 0)
+            {
+                temp += ch;
+            }
+        }
 
-//         foreach(char ch in input)
-//         {
-//             int asci = (int)ch;
-//             if(asci % 2 != 0)
-//             {
-//                 temp = temp + ch;
-//             }
-//         }
+        string reverse = "";
+        for (int i = temp.Length - 1; i >= 0; i--)
+        {
+            reverse += temp[i];
+        }
 
-//         string reverse = "";
-//         for(int i = temp.Length - 1; i>=0; i--)
-//         {
-//             reverse = reverse + temp[i];
-//         }
+        char[] result = reverse.ToCharArray();
+        for (int i = 0; i < result.Length; i++)
+        {
+            if (i % 2 == 0)
+            {
+                result[i] = char.ToUpper(result[i]);
+            }
+        }
 
-//         char[] result = reverse.ToCharArray();
-//         for(int i = 0; i < result.Length; i++)
-//         {
-//             if(i % 2 == 0)
-//             {
-//                 result[i] = char.ToUpper(result[i]);
-//             }
-//         }
-//         return new string(result);
-
-
-
-        
-//     }
-// }
-
-
-
-
-// string input = "Magic";
-// string password = Cleanser.CleanseAndInvert(input);
-// Console.WriteLine(password);
+        return new string(result);
+    }
+}
