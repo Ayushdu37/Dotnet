@@ -1,0 +1,15 @@
+D:\.net\Testing\Evencode\bin\Debug\net10.0\Evencode.exe
+D:\.net\Testing\Evencode\bin\Debug\net10.0\Evencode.deps.json
+D:\.net\Testing\Evencode\bin\Debug\net10.0\Evencode.runtimeconfig.json
+D:\.net\Testing\Evencode\bin\Debug\net10.0\Evencode.dll
+D:\.net\Testing\Evencode\bin\Debug\net10.0\Evencode.pdb
+D:\.net\Testing\Evencode\obj\Debug\net10.0\Evencode.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Testing\Evencode\obj\Debug\net10.0\Evencode.AssemblyInfoInputs.cache
+D:\.net\Testing\Evencode\obj\Debug\net10.0\Evencode.AssemblyInfo.cs
+D:\.net\Testing\Evencode\obj\Debug\net10.0\Evencode.csproj.CoreCompileInputs.cache
+D:\.net\Testing\Evencode\obj\Debug\net10.0\Evencode.sourcelink.json
+D:\.net\Testing\Evencode\obj\Debug\net10.0\Evencode.dll
+D:\.net\Testing\Evencode\obj\Debug\net10.0\refint\Evencode.dll
+D:\.net\Testing\Evencode\obj\Debug\net10.0\Evencode.pdb
+D:\.net\Testing\Evencode\obj\Debug\net10.0\Evencode.genruntimeconfig.cache
+D:\.net\Testing\Evencode\obj\Debug\net10.0\ref\Evencode.dll

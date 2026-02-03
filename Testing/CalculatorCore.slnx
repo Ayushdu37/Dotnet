@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="CalculatorUnitTesting/Calculatorcode.csproj" Id="caec31a0-7f0a-46e3-b213-6dbc04ec8956" />
+    <Project Path="Evencode/Evencode.csproj" Id="b31bf874-e1a0-4056-8db8-3c01f7903539" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="CalculatorTestProj/CalculatorTestProj.csproj" Id="08510e61-3738-4cba-a725-91ee4b3b38b7" />
+    <Project Path="EvenTestProj/EvenTestProj.csproj" Id="aa666d67-74f7-4e64-9429-ab4c0e006970" />
+  </Folder>
+</Solution>

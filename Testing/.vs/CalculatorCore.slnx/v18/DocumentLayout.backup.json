@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\Testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA666D67-74F7-4E64-9429-AB4C0E006970}|EvenTestProj\\EvenTestProj.csproj|d:\\.net\\testing\\eventestproj\\eventest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA666D67-74F7-4E64-9429-AB4C0E006970}|EvenTestProj\\EvenTestProj.csproj|solutionrelative:eventestproj\\eventest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08510E61-3738-4CBA-A725-91EE4B3B38B7}|CalculatorTestProj\\CalculatorTestProj.csproj|d:\\.net\\testing\\calculatortestproj\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08510E61-3738-4CBA-A725-91EE4B3B38B7}|CalculatorTestProj\\CalculatorTestProj.csproj|solutionrelative:calculatortestproj\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31BF874-E1A0-4056-8DB8-3C01F7903539}|Evencode\\Evencode.csproj|d:\\.net\\testing\\evencode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31BF874-E1A0-4056-8DB8-3C01F7903539}|Evencode\\Evencode.csproj|solutionrelative:evencode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEC31A0-7F0A-46E3-B213-6DBC04EC8956}|CalculatorUnitTesting\\Calculatorcode.csproj|d:\\.net\\testing\\calculatorunittesting\\feature\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEC31A0-7F0A-46E3-B213-6DBC04EC8956}|CalculatorUnitTesting\\Calculatorcode.csproj|solutionrelative:calculatorunittesting\\feature\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorTest.cs",
+              "DocumentMoniker": "D:\\.net\\Testing\\CalculatorTestProj\\CalculatorTest.cs",
+              "RelativeDocumentMoniker": "CalculatorTestProj\\CalculatorTest.cs",
+              "ToolTip": "D:\\.net\\Testing\\CalculatorTestProj\\CalculatorTest.cs",
+              "RelativeToolTip": "CalculatorTestProj\\CalculatorTest.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T06:43:10.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EvenTest.cs",
+              "DocumentMoniker": "D:\\.net\\Testing\\EvenTestProj\\EvenTest.cs",
+              "RelativeDocumentMoniker": "EvenTestProj\\EvenTest.cs",
+              "ToolTip": "D:\\.net\\Testing\\EvenTestProj\\EvenTest.cs",
+              "RelativeToolTip": "EvenTestProj\\EvenTest.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T06:39:13.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net\\Testing\\Evencode\\Program.cs",
+              "RelativeDocumentMoniker": "Evencode\\Program.cs",
+              "ToolTip": "D:\\.net\\Testing\\Evencode\\Program.cs",
+              "RelativeToolTip": "Evencode\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T06:26:32.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\.net\\Testing\\CalculatorUnitTesting\\Feature\\Calculator.cs",
+              "RelativeDocumentMoniker": "CalculatorUnitTesting\\Feature\\Calculator.cs",
+              "ToolTip": "D:\\.net\\Testing\\CalculatorUnitTesting\\Feature\\Calculator.cs",
+              "RelativeToolTip": "CalculatorUnitTesting\\Feature\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T06:24:00.509Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
