@@ -1,0 +1,15 @@
+D:\.net\TopBrains\TimeConversion\bin\Debug\net10.0\TimeConversion.exe
+D:\.net\TopBrains\TimeConversion\bin\Debug\net10.0\TimeConversion.deps.json
+D:\.net\TopBrains\TimeConversion\bin\Debug\net10.0\TimeConversion.runtimeconfig.json
+D:\.net\TopBrains\TimeConversion\bin\Debug\net10.0\TimeConversion.dll
+D:\.net\TopBrains\TimeConversion\bin\Debug\net10.0\TimeConversion.pdb
+D:\.net\TopBrains\TimeConversion\obj\Debug\net10.0\TimeConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\TopBrains\TimeConversion\obj\Debug\net10.0\TimeConversion.AssemblyInfoInputs.cache
+D:\.net\TopBrains\TimeConversion\obj\Debug\net10.0\TimeConversion.AssemblyInfo.cs
+D:\.net\TopBrains\TimeConversion\obj\Debug\net10.0\TimeConversion.csproj.CoreCompileInputs.cache
+D:\.net\TopBrains\TimeConversion\obj\Debug\net10.0\TimeConversion.sourcelink.json
+D:\.net\TopBrains\TimeConversion\obj\Debug\net10.0\TimeConversion.dll
+D:\.net\TopBrains\TimeConversion\obj\Debug\net10.0\refint\TimeConversion.dll
+D:\.net\TopBrains\TimeConversion\obj\Debug\net10.0\TimeConversion.pdb
+D:\.net\TopBrains\TimeConversion\obj\Debug\net10.0\TimeConversion.genruntimeconfig.cache
+D:\.net\TopBrains\TimeConversion\obj\Debug\net10.0\ref\TimeConversion.dll
