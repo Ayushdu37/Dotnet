@@ -1,0 +1,15 @@
+D:\.net\Meeting\Student\bin\Debug\net10.0\Student.exe
+D:\.net\Meeting\Student\bin\Debug\net10.0\Student.deps.json
+D:\.net\Meeting\Student\bin\Debug\net10.0\Student.runtimeconfig.json
+D:\.net\Meeting\Student\bin\Debug\net10.0\Student.dll
+D:\.net\Meeting\Student\bin\Debug\net10.0\Student.pdb
+D:\.net\Meeting\Student\obj\Debug\net10.0\Student.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Meeting\Student\obj\Debug\net10.0\Student.AssemblyInfoInputs.cache
+D:\.net\Meeting\Student\obj\Debug\net10.0\Student.AssemblyInfo.cs
+D:\.net\Meeting\Student\obj\Debug\net10.0\Student.csproj.CoreCompileInputs.cache
+D:\.net\Meeting\Student\obj\Debug\net10.0\Student.sourcelink.json
+D:\.net\Meeting\Student\obj\Debug\net10.0\Student.dll
+D:\.net\Meeting\Student\obj\Debug\net10.0\refint\Student.dll
+D:\.net\Meeting\Student\obj\Debug\net10.0\Student.pdb
+D:\.net\Meeting\Student\obj\Debug\net10.0\Student.genruntimeconfig.cache
+D:\.net\Meeting\Student\obj\Debug\net10.0\ref\Student.dll
