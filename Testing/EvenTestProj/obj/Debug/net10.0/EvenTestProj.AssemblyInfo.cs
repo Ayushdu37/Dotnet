@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EvenTestProj")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+831987c768214b70d010140b8f8cb35dabd30479")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c07a955837bd1a59ff1b658787402e607924d582")]
 [assembly: System.Reflection.AssemblyProductAttribute("EvenTestProj")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EvenTestProj")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
