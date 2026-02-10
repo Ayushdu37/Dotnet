@@ -1,0 +1,15 @@
+D:\.net\Pre-Mock\UniverSityCourseRegistrationSystem\bin\Debug\net10.0\UniverSityCourseRegistrationSystem.exe
+D:\.net\Pre-Mock\UniverSityCourseRegistrationSystem\bin\Debug\net10.0\UniverSityCourseRegistrationSystem.deps.json
+D:\.net\Pre-Mock\UniverSityCourseRegistrationSystem\bin\Debug\net10.0\UniverSityCourseRegistrationSystem.runtimeconfig.json
+D:\.net\Pre-Mock\UniverSityCourseRegistrationSystem\bin\Debug\net10.0\UniverSityCourseRegistrationSystem.dll
+D:\.net\Pre-Mock\UniverSityCourseRegistrationSystem\bin\Debug\net10.0\UniverSityCourseRegistrationSystem.pdb
+D:\.net\Pre-Mock\UniverSityCourseRegistrationSystem\obj\Debug\net10.0\UniverSityCourseRegistrationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Pre-Mock\UniverSityCourseRegistrationSystem\obj\Debug\net10.0\UniverSityCourseRegistrationSystem.AssemblyInfoInputs.cache
+D:\.net\Pre-Mock\UniverSityCourseRegistrationSystem\obj\Debug\net10.0\UniverSityCourseRegistrationSystem.AssemblyInfo.cs
+D:\.net\Pre-Mock\UniverSityCourseRegistrationSystem\obj\Debug\net10.0\UniverSityCourseRegistrationSystem.csproj.CoreCompileInputs.cache
+D:\.net\Pre-Mock\UniverSityCourseRegistrationSystem\obj\Debug\net10.0\UniverSityCourseRegistrationSystem.sourcelink.json
+D:\.net\Pre-Mock\UniverSityCourseRegistrationSystem\obj\Debug\net10.0\UniverSityCourseRegistrationSystem.dll
+D:\.net\Pre-Mock\UniverSityCourseRegistrationSystem\obj\Debug\net10.0\refint\UniverSityCourseRegistrationSystem.dll
+D:\.net\Pre-Mock\UniverSityCourseRegistrationSystem\obj\Debug\net10.0\UniverSityCourseRegistrationSystem.pdb
+D:\.net\Pre-Mock\UniverSityCourseRegistrationSystem\obj\Debug\net10.0\UniverSityCourseRegistrationSystem.genruntimeconfig.cache
+D:\.net\Pre-Mock\UniverSityCourseRegistrationSystem\obj\Debug\net10.0\ref\UniverSityCourseRegistrationSystem.dll
