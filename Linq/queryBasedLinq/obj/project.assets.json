@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.net\\day-15\\learning\\day-15\\day-15.csproj",
-      "projectName": "day-15",
-      "projectPath": "D:\\.net\\day-15\\learning\\day-15\\day-15.csproj",
+      "projectUniqueName": "D:\\.net\\Linq\\queryBasedLinq\\queryBasedLinq.csproj",
+      "projectName": "queryBasedLinq",
+      "projectPath": "D:\\.net\\Linq\\queryBasedLinq\\queryBasedLinq.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\.net\\day-15\\learning\\day-15\\obj\\",
+      "outputPath": "D:\\.net\\Linq\\queryBasedLinq\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -73,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

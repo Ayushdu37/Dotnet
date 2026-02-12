@@ -1,0 +1,15 @@
+D:\.net\Linq\queryBasedLinq\bin\Debug\net10.0\queryBasedLinq.exe
+D:\.net\Linq\queryBasedLinq\bin\Debug\net10.0\queryBasedLinq.deps.json
+D:\.net\Linq\queryBasedLinq\bin\Debug\net10.0\queryBasedLinq.runtimeconfig.json
+D:\.net\Linq\queryBasedLinq\bin\Debug\net10.0\queryBasedLinq.dll
+D:\.net\Linq\queryBasedLinq\bin\Debug\net10.0\queryBasedLinq.pdb
+D:\.net\Linq\queryBasedLinq\obj\Debug\net10.0\queryBasedLinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Linq\queryBasedLinq\obj\Debug\net10.0\queryBasedLinq.AssemblyInfoInputs.cache
+D:\.net\Linq\queryBasedLinq\obj\Debug\net10.0\queryBasedLinq.AssemblyInfo.cs
+D:\.net\Linq\queryBasedLinq\obj\Debug\net10.0\queryBasedLinq.csproj.CoreCompileInputs.cache
+D:\.net\Linq\queryBasedLinq\obj\Debug\net10.0\queryBasedLinq.sourcelink.json
+D:\.net\Linq\queryBasedLinq\obj\Debug\net10.0\queryBasedLinq.dll
+D:\.net\Linq\queryBasedLinq\obj\Debug\net10.0\refint\queryBasedLinq.dll
+D:\.net\Linq\queryBasedLinq\obj\Debug\net10.0\queryBasedLinq.pdb
+D:\.net\Linq\queryBasedLinq\obj\Debug\net10.0\queryBasedLinq.genruntimeconfig.cache
+D:\.net\Linq\queryBasedLinq\obj\Debug\net10.0\ref\queryBasedLinq.dll
