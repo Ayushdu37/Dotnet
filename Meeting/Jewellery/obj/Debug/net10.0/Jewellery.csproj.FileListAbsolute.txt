@@ -1,0 +1,15 @@
+D:\.net\Meeting\Jewellery\bin\Debug\net10.0\Jewellery.exe
+D:\.net\Meeting\Jewellery\bin\Debug\net10.0\Jewellery.deps.json
+D:\.net\Meeting\Jewellery\bin\Debug\net10.0\Jewellery.runtimeconfig.json
+D:\.net\Meeting\Jewellery\bin\Debug\net10.0\Jewellery.dll
+D:\.net\Meeting\Jewellery\bin\Debug\net10.0\Jewellery.pdb
+D:\.net\Meeting\Jewellery\obj\Debug\net10.0\Jewellery.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Meeting\Jewellery\obj\Debug\net10.0\Jewellery.AssemblyInfoInputs.cache
+D:\.net\Meeting\Jewellery\obj\Debug\net10.0\Jewellery.AssemblyInfo.cs
+D:\.net\Meeting\Jewellery\obj\Debug\net10.0\Jewellery.csproj.CoreCompileInputs.cache
+D:\.net\Meeting\Jewellery\obj\Debug\net10.0\Jewellery.sourcelink.json
+D:\.net\Meeting\Jewellery\obj\Debug\net10.0\Jewellery.dll
+D:\.net\Meeting\Jewellery\obj\Debug\net10.0\refint\Jewellery.dll
+D:\.net\Meeting\Jewellery\obj\Debug\net10.0\Jewellery.pdb
+D:\.net\Meeting\Jewellery\obj\Debug\net10.0\Jewellery.genruntimeconfig.cache
+D:\.net\Meeting\Jewellery\obj\Debug\net10.0\ref\Jewellery.dll
