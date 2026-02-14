@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\.net\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.net\\day-10\\learning\\day-10\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:day-10\\learning\\day-10\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.net\\Saturday-Assessment\\BookStoreApplication\\BookUtility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Saturday-Assessment\\BookStoreApplication\\BookUtility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.net\\Saturday-Assessment\\BookStoreApplication\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Saturday-Assessment\\BookStoreApplication\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.net\\Saturday-Assessment\\BookStoreApplication\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Saturday-Assessment\\BookStoreApplication\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\.net\\day-10\\learning\\day-10\\Program.cs",
-              "RelativeDocumentMoniker": "day-10\\learning\\day-10\\Program.cs",
-              "ToolTip": "D:\\.net\\day-10\\learning\\day-10\\Program.cs",
-              "RelativeToolTip": "day-10\\learning\\day-10\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Title": "BookUtility.cs",
+              "DocumentMoniker": "D:\\.net\\Saturday-Assessment\\BookStoreApplication\\BookUtility.cs",
+              "RelativeDocumentMoniker": "Saturday-Assessment\\BookStoreApplication\\BookUtility.cs",
+              "ToolTip": "D:\\.net\\Saturday-Assessment\\BookStoreApplication\\BookUtility.cs",
+              "RelativeToolTip": "Saturday-Assessment\\BookStoreApplication\\BookUtility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T04:20:31.352Z",
+              "WhenOpened": "2026-02-14T06:54:17.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\.net\\Saturday-Assessment\\BookStoreApplication\\Book.cs",
+              "RelativeDocumentMoniker": "Saturday-Assessment\\BookStoreApplication\\Book.cs",
+              "ToolTip": "D:\\.net\\Saturday-Assessment\\BookStoreApplication\\Book.cs",
+              "RelativeToolTip": "Saturday-Assessment\\BookStoreApplication\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T06:53:49.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net\\Saturday-Assessment\\BookStoreApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Saturday-Assessment\\BookStoreApplication\\Program.cs",
+              "ToolTip": "D:\\.net\\Saturday-Assessment\\BookStoreApplication\\Program.cs",
+              "RelativeToolTip": "Saturday-Assessment\\BookStoreApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T06:53:24.527Z",
               "EditorCaption": ""
             }
           ]

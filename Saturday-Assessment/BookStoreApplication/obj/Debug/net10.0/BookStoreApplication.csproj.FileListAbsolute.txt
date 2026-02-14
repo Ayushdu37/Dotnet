@@ -1,0 +1,15 @@
+D:\.net\Saturday-Assessment\BookStoreApplication\obj\Debug\net10.0\BookStoreApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Saturday-Assessment\BookStoreApplication\obj\Debug\net10.0\BookStoreApplication.AssemblyInfoInputs.cache
+D:\.net\Saturday-Assessment\BookStoreApplication\obj\Debug\net10.0\BookStoreApplication.AssemblyInfo.cs
+D:\.net\Saturday-Assessment\BookStoreApplication\obj\Debug\net10.0\BookStoreApplication.csproj.CoreCompileInputs.cache
+D:\.net\Saturday-Assessment\BookStoreApplication\obj\Debug\net10.0\BookStoreApplication.sourcelink.json
+D:\.net\Saturday-Assessment\BookStoreApplication\bin\Debug\net10.0\BookStoreApplication.exe
+D:\.net\Saturday-Assessment\BookStoreApplication\bin\Debug\net10.0\BookStoreApplication.deps.json
+D:\.net\Saturday-Assessment\BookStoreApplication\bin\Debug\net10.0\BookStoreApplication.runtimeconfig.json
+D:\.net\Saturday-Assessment\BookStoreApplication\bin\Debug\net10.0\BookStoreApplication.dll
+D:\.net\Saturday-Assessment\BookStoreApplication\bin\Debug\net10.0\BookStoreApplication.pdb
+D:\.net\Saturday-Assessment\BookStoreApplication\obj\Debug\net10.0\BookStoreApplication.dll
+D:\.net\Saturday-Assessment\BookStoreApplication\obj\Debug\net10.0\refint\BookStoreApplication.dll
+D:\.net\Saturday-Assessment\BookStoreApplication\obj\Debug\net10.0\BookStoreApplication.pdb
+D:\.net\Saturday-Assessment\BookStoreApplication\obj\Debug\net10.0\BookStoreApplication.genruntimeconfig.cache
+D:\.net\Saturday-Assessment\BookStoreApplication\obj\Debug\net10.0\ref\BookStoreApplication.dll

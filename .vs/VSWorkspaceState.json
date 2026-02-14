@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Saturday-Assessment",
+    "\\Saturday-Assessment\\BookStoreApplication"
   ],
-  "SelectedNode": "\\.net.sln",
+  "SelectedNode": "\\Saturday-Assessment\\BookStoreApplication\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
