@@ -1,0 +1,15 @@
+D:\.net\Saturday-Assessment\Logistics-Pro-System\obj\Debug\net10.0\Logistics-Pro-System.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Saturday-Assessment\Logistics-Pro-System\obj\Debug\net10.0\Logistics-Pro-System.AssemblyInfoInputs.cache
+D:\.net\Saturday-Assessment\Logistics-Pro-System\obj\Debug\net10.0\Logistics-Pro-System.AssemblyInfo.cs
+D:\.net\Saturday-Assessment\Logistics-Pro-System\obj\Debug\net10.0\Logistics-Pro-System.csproj.CoreCompileInputs.cache
+D:\.net\Saturday-Assessment\Logistics-Pro-System\obj\Debug\net10.0\Logistics-Pro-System.sourcelink.json
+D:\.net\Saturday-Assessment\Logistics-Pro-System\bin\Debug\net10.0\Logistics-Pro-System.exe
+D:\.net\Saturday-Assessment\Logistics-Pro-System\bin\Debug\net10.0\Logistics-Pro-System.deps.json
+D:\.net\Saturday-Assessment\Logistics-Pro-System\bin\Debug\net10.0\Logistics-Pro-System.runtimeconfig.json
+D:\.net\Saturday-Assessment\Logistics-Pro-System\bin\Debug\net10.0\Logistics-Pro-System.dll
+D:\.net\Saturday-Assessment\Logistics-Pro-System\bin\Debug\net10.0\Logistics-Pro-System.pdb
+D:\.net\Saturday-Assessment\Logistics-Pro-System\obj\Debug\net10.0\Logistics-Pro-System.dll
+D:\.net\Saturday-Assessment\Logistics-Pro-System\obj\Debug\net10.0\refint\Logistics-Pro-System.dll
+D:\.net\Saturday-Assessment\Logistics-Pro-System\obj\Debug\net10.0\Logistics-Pro-System.pdb
+D:\.net\Saturday-Assessment\Logistics-Pro-System\obj\Debug\net10.0\Logistics-Pro-System.genruntimeconfig.cache
+D:\.net\Saturday-Assessment\Logistics-Pro-System\obj\Debug\net10.0\ref\Logistics-Pro-System.dll

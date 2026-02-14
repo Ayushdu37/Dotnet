@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class ShipmetDetails : Shipment
+public class ShipmentDetails : Shipment
 {
 	public bool ValidateShipmentCode()
 	{
@@ -19,8 +19,21 @@ public class ShipmetDetails : Shipment
         }
 		return true;
     }
-	public double CalculateTotalCost(double RatePerKg)
+	public double CalculateTotalCost()
 	{
+		double RatePerKg = 0;
 
+		if(TransportMode == "Sea")
+		{
+			 RatePerKg = 15.00;
+		}else if(TransportMode == "Air")
+		{
+			RatePerKg = 50.00;
+		}else if(TransportMode == "Land")
+		{
+			RatePerKg = 25.00;
+		}
+		double TotalCost = (Weight * RatePerKg) + Math.Sqrt(StorageDays);
+		return TotalCost;
 	}
 }

@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class System
+public class Shipment
 {
 	public string ShipmentCode { get; set; }
 	public string TransportMode { get; set; }
