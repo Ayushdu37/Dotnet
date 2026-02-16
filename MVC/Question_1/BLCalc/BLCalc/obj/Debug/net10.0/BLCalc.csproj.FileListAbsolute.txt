@@ -1,0 +1,16 @@
+D:\.net\MVC\Question_1\BLCalc\BLCalc\bin\Debug\net10.0\BLCalc.deps.json
+D:\.net\MVC\Question_1\BLCalc\BLCalc\bin\Debug\net10.0\BLCalc.dll
+D:\.net\MVC\Question_1\BLCalc\BLCalc\bin\Debug\net10.0\BLCalc.pdb
+D:\.net\MVC\Question_1\BLCalc\BLCalc\bin\Debug\net10.0\DalCalc.dll
+D:\.net\MVC\Question_1\BLCalc\BLCalc\bin\Debug\net10.0\DalCalc.pdb
+D:\.net\MVC\Question_1\BLCalc\BLCalc\obj\Debug\net10.0\BLCalc.csproj.AssemblyReference.cache
+D:\.net\MVC\Question_1\BLCalc\BLCalc\obj\Debug\net10.0\BLCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\MVC\Question_1\BLCalc\BLCalc\obj\Debug\net10.0\BLCalc.AssemblyInfoInputs.cache
+D:\.net\MVC\Question_1\BLCalc\BLCalc\obj\Debug\net10.0\BLCalc.AssemblyInfo.cs
+D:\.net\MVC\Question_1\BLCalc\BLCalc\obj\Debug\net10.0\BLCalc.csproj.CoreCompileInputs.cache
+D:\.net\MVC\Question_1\BLCalc\BLCalc\obj\Debug\net10.0\BLCalc.sourcelink.json
+D:\.net\MVC\Question_1\BLCalc\BLCalc\obj\Debug\net10.0\BLCalc.csproj.Up2Date
+D:\.net\MVC\Question_1\BLCalc\BLCalc\obj\Debug\net10.0\BLCalc.dll
+D:\.net\MVC\Question_1\BLCalc\BLCalc\obj\Debug\net10.0\refint\BLCalc.dll
+D:\.net\MVC\Question_1\BLCalc\BLCalc\obj\Debug\net10.0\BLCalc.pdb
+D:\.net\MVC\Question_1\BLCalc\BLCalc\obj\Debug\net10.0\ref\BLCalc.dll

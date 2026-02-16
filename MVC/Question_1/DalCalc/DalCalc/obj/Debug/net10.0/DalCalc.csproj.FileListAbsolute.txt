@@ -1,0 +1,12 @@
+D:\.net\MVC\Question_1\DalCalc\DalCalc\bin\Debug\net10.0\DalCalc.deps.json
+D:\.net\MVC\Question_1\DalCalc\DalCalc\bin\Debug\net10.0\DalCalc.dll
+D:\.net\MVC\Question_1\DalCalc\DalCalc\bin\Debug\net10.0\DalCalc.pdb
+D:\.net\MVC\Question_1\DalCalc\DalCalc\obj\Debug\net10.0\DalCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\MVC\Question_1\DalCalc\DalCalc\obj\Debug\net10.0\DalCalc.AssemblyInfoInputs.cache
+D:\.net\MVC\Question_1\DalCalc\DalCalc\obj\Debug\net10.0\DalCalc.AssemblyInfo.cs
+D:\.net\MVC\Question_1\DalCalc\DalCalc\obj\Debug\net10.0\DalCalc.csproj.CoreCompileInputs.cache
+D:\.net\MVC\Question_1\DalCalc\DalCalc\obj\Debug\net10.0\DalCalc.sourcelink.json
+D:\.net\MVC\Question_1\DalCalc\DalCalc\obj\Debug\net10.0\DalCalc.dll
+D:\.net\MVC\Question_1\DalCalc\DalCalc\obj\Debug\net10.0\refint\DalCalc.dll
+D:\.net\MVC\Question_1\DalCalc\DalCalc\obj\Debug\net10.0\DalCalc.pdb
+D:\.net\MVC\Question_1\DalCalc\DalCalc\obj\Debug\net10.0\ref\DalCalc.dll

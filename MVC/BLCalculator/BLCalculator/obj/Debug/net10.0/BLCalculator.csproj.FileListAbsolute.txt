@@ -1,0 +1,16 @@
+D:\.net\MVC\BLCalculator\BLCalculator\bin\Debug\net10.0\BLCalculator.deps.json
+D:\.net\MVC\BLCalculator\BLCalculator\bin\Debug\net10.0\BLCalculator.dll
+D:\.net\MVC\BLCalculator\BLCalculator\bin\Debug\net10.0\BLCalculator.pdb
+D:\.net\MVC\BLCalculator\BLCalculator\bin\Debug\net10.0\DALcalc.dll
+D:\.net\MVC\BLCalculator\BLCalculator\bin\Debug\net10.0\DALcalc.pdb
+D:\.net\MVC\BLCalculator\BLCalculator\obj\Debug\net10.0\BLCalculator.csproj.AssemblyReference.cache
+D:\.net\MVC\BLCalculator\BLCalculator\obj\Debug\net10.0\BLCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\MVC\BLCalculator\BLCalculator\obj\Debug\net10.0\BLCalculator.AssemblyInfoInputs.cache
+D:\.net\MVC\BLCalculator\BLCalculator\obj\Debug\net10.0\BLCalculator.AssemblyInfo.cs
+D:\.net\MVC\BLCalculator\BLCalculator\obj\Debug\net10.0\BLCalculator.csproj.CoreCompileInputs.cache
+D:\.net\MVC\BLCalculator\BLCalculator\obj\Debug\net10.0\BLCalculator.sourcelink.json
+D:\.net\MVC\BLCalculator\BLCalculator\obj\Debug\net10.0\BLCalcul.12015179.Up2Date
+D:\.net\MVC\BLCalculator\BLCalculator\obj\Debug\net10.0\BLCalculator.dll
+D:\.net\MVC\BLCalculator\BLCalculator\obj\Debug\net10.0\refint\BLCalculator.dll
+D:\.net\MVC\BLCalculator\BLCalculator\obj\Debug\net10.0\BLCalculator.pdb
+D:\.net\MVC\BLCalculator\BLCalculator\obj\Debug\net10.0\ref\BLCalculator.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\MVC\\Question_1\\BLCalc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD99F0A-D591-35DA-A768-4F8941785C5E}|BLCalc\\BLCalc.csproj|d:\\.net\\mvc\\question_1\\blcalc\\blcalc\\reverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD99F0A-D591-35DA-A768-4F8941785C5E}|BLCalc\\BLCalc.csproj|solutionrelative:blcalc\\reverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "reverse.cs",
+              "DocumentMoniker": "D:\\.net\\MVC\\Question_1\\BLCalc\\BLCalc\\reverse.cs",
+              "RelativeDocumentMoniker": "BLCalc\\reverse.cs",
+              "ToolTip": "D:\\.net\\MVC\\Question_1\\BLCalc\\BLCalc\\reverse.cs",
+              "RelativeToolTip": "BLCalc\\reverse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T05:13:29.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
