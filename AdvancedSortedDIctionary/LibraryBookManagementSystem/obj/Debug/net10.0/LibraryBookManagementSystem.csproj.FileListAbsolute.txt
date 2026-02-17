@@ -1,0 +1,15 @@
+D:\.net\AdvancedSortedDIctionary\LibraryBookManagementSystem\bin\Debug\net10.0\LibraryBookManagementSystem.exe
+D:\.net\AdvancedSortedDIctionary\LibraryBookManagementSystem\bin\Debug\net10.0\LibraryBookManagementSystem.deps.json
+D:\.net\AdvancedSortedDIctionary\LibraryBookManagementSystem\bin\Debug\net10.0\LibraryBookManagementSystem.runtimeconfig.json
+D:\.net\AdvancedSortedDIctionary\LibraryBookManagementSystem\bin\Debug\net10.0\LibraryBookManagementSystem.dll
+D:\.net\AdvancedSortedDIctionary\LibraryBookManagementSystem\bin\Debug\net10.0\LibraryBookManagementSystem.pdb
+D:\.net\AdvancedSortedDIctionary\LibraryBookManagementSystem\obj\Debug\net10.0\LibraryBookManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\AdvancedSortedDIctionary\LibraryBookManagementSystem\obj\Debug\net10.0\LibraryBookManagementSystem.AssemblyInfoInputs.cache
+D:\.net\AdvancedSortedDIctionary\LibraryBookManagementSystem\obj\Debug\net10.0\LibraryBookManagementSystem.AssemblyInfo.cs
+D:\.net\AdvancedSortedDIctionary\LibraryBookManagementSystem\obj\Debug\net10.0\LibraryBookManagementSystem.csproj.CoreCompileInputs.cache
+D:\.net\AdvancedSortedDIctionary\LibraryBookManagementSystem\obj\Debug\net10.0\LibraryBookManagementSystem.sourcelink.json
+D:\.net\AdvancedSortedDIctionary\LibraryBookManagementSystem\obj\Debug\net10.0\LibraryBookManagementSystem.dll
+D:\.net\AdvancedSortedDIctionary\LibraryBookManagementSystem\obj\Debug\net10.0\refint\LibraryBookManagementSystem.dll
+D:\.net\AdvancedSortedDIctionary\LibraryBookManagementSystem\obj\Debug\net10.0\LibraryBookManagementSystem.pdb
+D:\.net\AdvancedSortedDIctionary\LibraryBookManagementSystem\obj\Debug\net10.0\LibraryBookManagementSystem.genruntimeconfig.cache
+D:\.net\AdvancedSortedDIctionary\LibraryBookManagementSystem\obj\Debug\net10.0\ref\LibraryBookManagementSystem.dll

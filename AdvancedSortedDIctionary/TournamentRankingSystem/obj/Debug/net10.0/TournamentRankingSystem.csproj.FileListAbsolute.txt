@@ -1,0 +1,15 @@
+D:\.net\AdvancedSortedDIctionary\TournamentRankingSystem\bin\Debug\net10.0\TournamentRankingSystem.exe
+D:\.net\AdvancedSortedDIctionary\TournamentRankingSystem\bin\Debug\net10.0\TournamentRankingSystem.deps.json
+D:\.net\AdvancedSortedDIctionary\TournamentRankingSystem\bin\Debug\net10.0\TournamentRankingSystem.runtimeconfig.json
+D:\.net\AdvancedSortedDIctionary\TournamentRankingSystem\bin\Debug\net10.0\TournamentRankingSystem.dll
+D:\.net\AdvancedSortedDIctionary\TournamentRankingSystem\bin\Debug\net10.0\TournamentRankingSystem.pdb
+D:\.net\AdvancedSortedDIctionary\TournamentRankingSystem\obj\Debug\net10.0\TournamentRankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\AdvancedSortedDIctionary\TournamentRankingSystem\obj\Debug\net10.0\TournamentRankingSystem.AssemblyInfoInputs.cache
+D:\.net\AdvancedSortedDIctionary\TournamentRankingSystem\obj\Debug\net10.0\TournamentRankingSystem.AssemblyInfo.cs
+D:\.net\AdvancedSortedDIctionary\TournamentRankingSystem\obj\Debug\net10.0\TournamentRankingSystem.csproj.CoreCompileInputs.cache
+D:\.net\AdvancedSortedDIctionary\TournamentRankingSystem\obj\Debug\net10.0\TournamentRankingSystem.sourcelink.json
+D:\.net\AdvancedSortedDIctionary\TournamentRankingSystem\obj\Debug\net10.0\TournamentRankingSystem.dll
+D:\.net\AdvancedSortedDIctionary\TournamentRankingSystem\obj\Debug\net10.0\refint\TournamentRankingSystem.dll
+D:\.net\AdvancedSortedDIctionary\TournamentRankingSystem\obj\Debug\net10.0\TournamentRankingSystem.pdb
+D:\.net\AdvancedSortedDIctionary\TournamentRankingSystem\obj\Debug\net10.0\TournamentRankingSystem.genruntimeconfig.cache
+D:\.net\AdvancedSortedDIctionary\TournamentRankingSystem\obj\Debug\net10.0\ref\TournamentRankingSystem.dll

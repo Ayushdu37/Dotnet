@@ -1,0 +1,15 @@
+D:\.net\AdvancedSortedDIctionary\ResOrdProSys\bin\Debug\net10.0\ResOrdProSys.exe
+D:\.net\AdvancedSortedDIctionary\ResOrdProSys\bin\Debug\net10.0\ResOrdProSys.deps.json
+D:\.net\AdvancedSortedDIctionary\ResOrdProSys\bin\Debug\net10.0\ResOrdProSys.runtimeconfig.json
+D:\.net\AdvancedSortedDIctionary\ResOrdProSys\bin\Debug\net10.0\ResOrdProSys.dll
+D:\.net\AdvancedSortedDIctionary\ResOrdProSys\bin\Debug\net10.0\ResOrdProSys.pdb
+D:\.net\AdvancedSortedDIctionary\ResOrdProSys\obj\Debug\net10.0\ResOrdProSys.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\AdvancedSortedDIctionary\ResOrdProSys\obj\Debug\net10.0\ResOrdProSys.AssemblyInfoInputs.cache
+D:\.net\AdvancedSortedDIctionary\ResOrdProSys\obj\Debug\net10.0\ResOrdProSys.AssemblyInfo.cs
+D:\.net\AdvancedSortedDIctionary\ResOrdProSys\obj\Debug\net10.0\ResOrdProSys.csproj.CoreCompileInputs.cache
+D:\.net\AdvancedSortedDIctionary\ResOrdProSys\obj\Debug\net10.0\ResOrdProSys.sourcelink.json
+D:\.net\AdvancedSortedDIctionary\ResOrdProSys\obj\Debug\net10.0\ResOrdProSys.dll
+D:\.net\AdvancedSortedDIctionary\ResOrdProSys\obj\Debug\net10.0\refint\ResOrdProSys.dll
+D:\.net\AdvancedSortedDIctionary\ResOrdProSys\obj\Debug\net10.0\ResOrdProSys.pdb
+D:\.net\AdvancedSortedDIctionary\ResOrdProSys\obj\Debug\net10.0\ResOrdProSys.genruntimeconfig.cache
+D:\.net\AdvancedSortedDIctionary\ResOrdProSys\obj\Debug\net10.0\ref\ResOrdProSys.dll
