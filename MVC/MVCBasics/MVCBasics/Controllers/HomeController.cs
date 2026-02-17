@@ -16,6 +16,18 @@ namespace MVCBasics.Controllers
             return View();
         }
 
+        public IActionResult Student()
+        {
+            var s = new { Name = "Ravi", Marks = 90 };
+            return Json(s);
+        }
+
+        public IActionResult Square(int? number)
+        {
+            if (number == null) return Content("Please provide a number");
+            return View(number.Value);
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

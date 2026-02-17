@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\.net\\MVC\\MVCBasics\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|d:\\.net\\mvc\\mvcbasics\\mvcbasics\\views\\home\\square.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|solutionrelative:mvcbasics\\views\\home\\square.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|d:\\.net\\mvc\\mvcbasics\\mvcbasics\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|solutionrelative:mvcbasics\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +30,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Square.cshtml",
+              "DocumentMoniker": "D:\\.net\\MVC\\MVCBasics\\MVCBasics\\Views\\Home\\Square.cshtml",
+              "RelativeDocumentMoniker": "MVCBasics\\Views\\Home\\Square.cshtml",
+              "ToolTip": "D:\\.net\\MVC\\MVCBasics\\MVCBasics\\Views\\Home\\Square.cshtml",
+              "RelativeToolTip": "MVCBasics\\Views\\Home\\Square.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-17T04:51:26.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\.net\\MVC\\MVCBasics\\MVCBasics\\Program.cs",
               "RelativeDocumentMoniker": "MVCBasics\\Program.cs",
               "ToolTip": "D:\\.net\\MVC\\MVCBasics\\MVCBasics\\Program.cs",
               "RelativeToolTip": "MVCBasics\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-16T09:46:13.453Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\.net\\MVC\\MVCBasics\\MVCBasics\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MVCBasics\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\.net\\MVC\\MVCBasics\\MVCBasics\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MVCBasics\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\.net\\MVC\\MVCBasics\\MVCBasics\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "MVCBasics\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-16T09:46:33.532Z",
               "EditorCaption": ""
