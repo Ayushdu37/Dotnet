@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\.net\\MVC\\MVCBasics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|d:\\.net\\mvc\\mvcbasics\\mvcbasics\\views\\home\\square.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|solutionrelative:mvcbasics\\views\\home\\square.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|d:\\.net\\mvc\\mvcbasics\\mvcbasics\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|solutionrelative:mvcbasics\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|d:\\.net\\mvc\\mvcbasics\\mvcbasics\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|solutionrelative:mvcbasics\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|d:\\.net\\mvc\\mvcbasics\\mvcbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|solutionrelative:mvcbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|d:\\.net\\mvc\\mvcbasics\\mvcbasics\\views\\home\\sumofstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|solutionrelative:mvcbasics\\views\\home\\sumofstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|d:\\.net\\mvc\\mvcbasics\\mvcbasics\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BA0F46-ED58-FC42-B41C-D5D377B664FF}|MVCBasics\\MVCBasics.csproj|solutionrelative:mvcbasics\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,19 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Square.cshtml",
-              "DocumentMoniker": "D:\\.net\\MVC\\MVCBasics\\MVCBasics\\Views\\Home\\Square.cshtml",
-              "RelativeDocumentMoniker": "MVCBasics\\Views\\Home\\Square.cshtml",
-              "ToolTip": "D:\\.net\\MVC\\MVCBasics\\MVCBasics\\Views\\Home\\Square.cshtml",
-              "RelativeToolTip": "MVCBasics\\Views\\Home\\Square.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-17T04:51:26.456Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.net\\MVC\\MVCBasics\\MVCBasics\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCBasics\\appsettings.json",
+              "ToolTip": "D:\\.net\\MVC\\MVCBasics\\MVCBasics\\appsettings.json",
+              "RelativeToolTip": "MVCBasics\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-20T06:23:37.45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "SumOfStudent.cshtml",
+              "DocumentMoniker": "D:\\.net\\MVC\\MVCBasics\\MVCBasics\\Views\\Home\\SumOfStudent.cshtml",
+              "RelativeDocumentMoniker": "MVCBasics\\Views\\Home\\SumOfStudent.cshtml",
+              "ToolTip": "D:\\.net\\MVC\\MVCBasics\\MVCBasics\\Views\\Home\\SumOfStudent.cshtml",
+              "RelativeToolTip": "MVCBasics\\Views\\Home\\SumOfStudent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-20T06:21:22.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\.net\\MVC\\MVCBasics\\MVCBasics\\Program.cs",
               "RelativeDocumentMoniker": "MVCBasics\\Program.cs",
@@ -56,13 +73,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\.net\\MVC\\MVCBasics\\MVCBasics\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MVCBasics\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\.net\\MVC\\MVCBasics\\MVCBasics\\Controllers\\HomeController.cs",
               "RelativeToolTip": "MVCBasics\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBgAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-16T09:46:33.532Z",
               "EditorCaption": ""

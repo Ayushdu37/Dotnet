@@ -27,6 +27,11 @@ namespace MVCBasics.Controllers
             if (number == null) return Content("Please provide a number");
             return View(number.Value);
         }
+        public IActionResult SumOfStudent(int m1, int m2, int m3)
+        {
+            int ans = m1 + m2 + m3;
+            return View(ans);
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

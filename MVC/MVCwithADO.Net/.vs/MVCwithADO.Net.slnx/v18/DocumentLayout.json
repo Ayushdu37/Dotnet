@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\MVC\\MVCwithADO.Net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52DBB502-2816-4DCA-B1E4-DEE45119F5CE}|MVCwithADO.Net\\MVCwithADO.Net.csproj|d:\\.net\\mvc\\mvcwithado.net\\mvcwithado.net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{52DBB502-2816-4DCA-B1E4-DEE45119F5CE}|MVCwithADO.Net\\MVCwithADO.Net.csproj|solutionrelative:mvcwithado.net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52DBB502-2816-4DCA-B1E4-DEE45119F5CE}|MVCwithADO.Net\\MVCwithADO.Net.csproj|d:\\.net\\mvc\\mvcwithado.net\\mvcwithado.net\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52DBB502-2816-4DCA-B1E4-DEE45119F5CE}|MVCwithADO.Net\\MVCwithADO.Net.csproj|solutionrelative:mvcwithado.net\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52DBB502-2816-4DCA-B1E4-DEE45119F5CE}|MVCwithADO.Net\\MVCwithADO.Net.csproj|d:\\.net\\mvc\\mvcwithado.net\\mvcwithado.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52DBB502-2816-4DCA-B1E4-DEE45119F5CE}|MVCwithADO.Net\\MVCwithADO.Net.csproj|solutionrelative:mvcwithado.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52DBB502-2816-4DCA-B1E4-DEE45119F5CE}|MVCwithADO.Net\\MVCwithADO.Net.csproj|d:\\.net\\mvc\\mvcwithado.net\\mvcwithado.net\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52DBB502-2816-4DCA-B1E4-DEE45119F5CE}|MVCwithADO.Net\\MVCwithADO.Net.csproj|solutionrelative:mvcwithado.net\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52DBB502-2816-4DCA-B1E4-DEE45119F5CE}|MVCwithADO.Net\\MVCwithADO.Net.csproj|d:\\.net\\mvc\\mvcwithado.net\\mvcwithado.net\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52DBB502-2816-4DCA-B1E4-DEE45119F5CE}|MVCwithADO.Net\\MVCwithADO.Net.csproj|solutionrelative:mvcwithado.net\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52DBB502-2816-4DCA-B1E4-DEE45119F5CE}|MVCwithADO.Net\\MVCwithADO.Net.csproj|d:\\.net\\mvc\\mvcwithado.net\\mvcwithado.net\\data\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52DBB502-2816-4DCA-B1E4-DEE45119F5CE}|MVCwithADO.Net\\MVCwithADO.Net.csproj|solutionrelative:mvcwithado.net\\data\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.net\\MVC\\MVCwithADO.Net\\MVCwithADO.Net\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCwithADO.Net\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\.net\\MVC\\MVCwithADO.Net\\MVCwithADO.Net\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "MVCwithADO.Net\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-20T07:08:33.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net\\MVC\\MVCwithADO.Net\\MVCwithADO.Net\\Program.cs",
+              "RelativeDocumentMoniker": "MVCwithADO.Net\\Program.cs",
+              "ToolTip": "D:\\.net\\MVC\\MVCwithADO.Net\\MVCwithADO.Net\\Program.cs",
+              "RelativeToolTip": "MVCwithADO.Net\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T07:05:30.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\.net\\MVC\\MVCwithADO.Net\\MVCwithADO.Net\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "MVCwithADO.Net\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\.net\\MVC\\MVCwithADO.Net\\MVCwithADO.Net\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "MVCwithADO.Net\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T06:52:50.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\.net\\MVC\\MVCwithADO.Net\\MVCwithADO.Net\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "MVCwithADO.Net\\Models\\Student.cs",
+              "ToolTip": "D:\\.net\\MVC\\MVCwithADO.Net\\MVCwithADO.Net\\Models\\Student.cs",
+              "RelativeToolTip": "MVCwithADO.Net\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T06:41:23.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\.net\\MVC\\MVCwithADO.Net\\MVCwithADO.Net\\Data\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "MVCwithADO.Net\\Data\\StudentRepository.cs",
+              "ToolTip": "D:\\.net\\MVC\\MVCwithADO.Net\\MVCwithADO.Net\\Data\\StudentRepository.cs",
+              "RelativeToolTip": "MVCwithADO.Net\\Data\\StudentRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T06:34:54.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.net\\MVC\\MVCwithADO.Net\\MVCwithADO.Net\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCwithADO.Net\\appsettings.json",
+              "ToolTip": "D:\\.net\\MVC\\MVCwithADO.Net\\MVCwithADO.Net\\appsettings.json",
+              "RelativeToolTip": "MVCwithADO.Net\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-20T06:25:50.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
