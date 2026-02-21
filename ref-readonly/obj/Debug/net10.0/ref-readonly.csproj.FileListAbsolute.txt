@@ -1,0 +1,15 @@
+D:\.net\ref-readonly\bin\Debug\net10.0\ref-readonly.exe
+D:\.net\ref-readonly\bin\Debug\net10.0\ref-readonly.deps.json
+D:\.net\ref-readonly\bin\Debug\net10.0\ref-readonly.runtimeconfig.json
+D:\.net\ref-readonly\bin\Debug\net10.0\ref-readonly.dll
+D:\.net\ref-readonly\bin\Debug\net10.0\ref-readonly.pdb
+D:\.net\ref-readonly\obj\Debug\net10.0\ref-readonly.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\ref-readonly\obj\Debug\net10.0\ref-readonly.AssemblyInfoInputs.cache
+D:\.net\ref-readonly\obj\Debug\net10.0\ref-readonly.AssemblyInfo.cs
+D:\.net\ref-readonly\obj\Debug\net10.0\ref-readonly.csproj.CoreCompileInputs.cache
+D:\.net\ref-readonly\obj\Debug\net10.0\ref-readonly.sourcelink.json
+D:\.net\ref-readonly\obj\Debug\net10.0\ref-readonly.dll
+D:\.net\ref-readonly\obj\Debug\net10.0\refint\ref-readonly.dll
+D:\.net\ref-readonly\obj\Debug\net10.0\ref-readonly.pdb
+D:\.net\ref-readonly\obj\Debug\net10.0\ref-readonly.genruntimeconfig.cache
+D:\.net\ref-readonly\obj\Debug\net10.0\ref\ref-readonly.dll
