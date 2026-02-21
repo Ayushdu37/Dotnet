@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{52DBB502-2816-4DCA-B1E4-DEE45119F5CE}|MVCwithADO.Net\\MVCwithADO.Net.csproj|solutionrelative:mvcwithado.net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52DBB502-2816-4DCA-B1E4-DEE45119F5CE}|MVCwithADO.Net\\MVCwithADO.Net.csproj|d:\\.net\\mvc\\mvcwithado.net\\mvcwithado.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52DBB502-2816-4DCA-B1E4-DEE45119F5CE}|MVCwithADO.Net\\MVCwithADO.Net.csproj|solutionrelative:mvcwithado.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{52DBB502-2816-4DCA-B1E4-DEE45119F5CE}|MVCwithADO.Net\\MVCwithADO.Net.csproj|d:\\.net\\mvc\\mvcwithado.net\\mvcwithado.net\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{52DBB502-2816-4DCA-B1E4-DEE45119F5CE}|MVCwithADO.Net\\MVCwithADO.Net.csproj|solutionrelative:mvcwithado.net\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52DBB502-2816-4DCA-B1E4-DEE45119F5CE}|MVCwithADO.Net\\MVCwithADO.Net.csproj|d:\\.net\\mvc\\mvcwithado.net\\mvcwithado.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52DBB502-2816-4DCA-B1E4-DEE45119F5CE}|MVCwithADO.Net\\MVCwithADO.Net.csproj|solutionrelative:mvcwithado.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52DBB502-2816-4DCA-B1E4-DEE45119F5CE}|MVCwithADO.Net\\MVCwithADO.Net.csproj|d:\\.net\\mvc\\mvcwithado.net\\mvcwithado.net\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\.net\\MVC\\MVCwithADO.Net\\MVCwithADO.Net\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCwithADO.Net\\Views\\Student\\Index.cshtml",
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\.net\\MVC\\MVCwithADO.Net\\MVCwithADO.Net\\Program.cs",
               "RelativeDocumentMoniker": "MVCwithADO.Net\\Program.cs",
@@ -111,8 +111,8 @@
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\.net\\MVC\\MVCwithADO.Net\\MVCwithADO.Net\\appsettings.json",
               "RelativeDocumentMoniker": "MVCwithADO.Net\\appsettings.json",
-              "ToolTip": "D:\\.net\\MVC\\MVCwithADO.Net\\MVCwithADO.Net\\appsettings.json*",
-              "RelativeToolTip": "MVCwithADO.Net\\appsettings.json*",
+              "ToolTip": "D:\\.net\\MVC\\MVCwithADO.Net\\MVCwithADO.Net\\appsettings.json",
+              "RelativeToolTip": "MVCwithADO.Net\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-02-20T06:25:50.077Z",

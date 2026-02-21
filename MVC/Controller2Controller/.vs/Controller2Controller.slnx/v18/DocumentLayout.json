@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\MVC\\Controller2Controller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCB9323-82DA-45A2-B7A5-B5BC1280BAD6}|Controller2Controller\\Controller2Controller.csproj|d:\\.net\\mvc\\controller2controller\\controller2controller\\views\\home\\myname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADCB9323-82DA-45A2-B7A5-B5BC1280BAD6}|Controller2Controller\\Controller2Controller.csproj|solutionrelative:controller2controller\\views\\home\\myname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCB9323-82DA-45A2-B7A5-B5BC1280BAD6}|Controller2Controller\\Controller2Controller.csproj|d:\\.net\\mvc\\controller2controller\\controller2controller\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCB9323-82DA-45A2-B7A5-B5BC1280BAD6}|Controller2Controller\\Controller2Controller.csproj|solutionrelative:controller2controller\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCB9323-82DA-45A2-B7A5-B5BC1280BAD6}|Controller2Controller\\Controller2Controller.csproj|d:\\.net\\mvc\\controller2controller\\controller2controller\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCB9323-82DA-45A2-B7A5-B5BC1280BAD6}|Controller2Controller\\Controller2Controller.csproj|solutionrelative:controller2controller\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyName.cshtml",
+              "DocumentMoniker": "D:\\.net\\MVC\\Controller2Controller\\Controller2Controller\\Views\\Home\\MyName.cshtml",
+              "RelativeDocumentMoniker": "Controller2Controller\\Views\\Home\\MyName.cshtml",
+              "ToolTip": "D:\\.net\\MVC\\Controller2Controller\\Controller2Controller\\Views\\Home\\MyName.cshtml",
+              "RelativeToolTip": "Controller2Controller\\Views\\Home\\MyName.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-21T07:19:14.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\.net\\MVC\\Controller2Controller\\Controller2Controller\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controller2Controller\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\.net\\MVC\\Controller2Controller\\Controller2Controller\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controller2Controller\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T06:42:12.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.net\\MVC\\Controller2Controller\\Controller2Controller\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controller2Controller\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.net\\MVC\\Controller2Controller\\Controller2Controller\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controller2Controller\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T06:39:30.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
