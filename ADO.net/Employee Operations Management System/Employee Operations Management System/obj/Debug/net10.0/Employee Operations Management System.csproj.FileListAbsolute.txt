@@ -1,0 +1,23 @@
+D:\.net\ADO.net\Employee Operations Management System\Employee Operations Management System\bin\Debug\net10.0\Employee Operations Management System.exe
+D:\.net\ADO.net\Employee Operations Management System\Employee Operations Management System\bin\Debug\net10.0\Employee Operations Management System.deps.json
+D:\.net\ADO.net\Employee Operations Management System\Employee Operations Management System\bin\Debug\net10.0\Employee Operations Management System.runtimeconfig.json
+D:\.net\ADO.net\Employee Operations Management System\Employee Operations Management System\bin\Debug\net10.0\Employee Operations Management System.dll
+D:\.net\ADO.net\Employee Operations Management System\Employee Operations Management System\bin\Debug\net10.0\Employee Operations Management System.pdb
+D:\.net\ADO.net\Employee Operations Management System\Employee Operations Management System\bin\Debug\net10.0\System.Data.SqlClient.dll
+D:\.net\ADO.net\Employee Operations Management System\Employee Operations Management System\bin\Debug\net10.0\runtimes\win-arm64\native\sni.dll
+D:\.net\ADO.net\Employee Operations Management System\Employee Operations Management System\bin\Debug\net10.0\runtimes\win-x64\native\sni.dll
+D:\.net\ADO.net\Employee Operations Management System\Employee Operations Management System\bin\Debug\net10.0\runtimes\win-x86\native\sni.dll
+D:\.net\ADO.net\Employee Operations Management System\Employee Operations Management System\bin\Debug\net10.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\.net\ADO.net\Employee Operations Management System\Employee Operations Management System\bin\Debug\net10.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\.net\ADO.net\Employee Operations Management System\Employee Operations Management System\obj\Debug\net10.0\Employee Operations Management System.csproj.AssemblyReference.cache
+D:\.net\ADO.net\Employee Operations Management System\Employee Operations Management System\obj\Debug\net10.0\Employee Operations Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\ADO.net\Employee Operations Management System\Employee Operations Management System\obj\Debug\net10.0\Employee Operations Management System.AssemblyInfoInputs.cache
+D:\.net\ADO.net\Employee Operations Management System\Employee Operations Management System\obj\Debug\net10.0\Employee Operations Management System.AssemblyInfo.cs
+D:\.net\ADO.net\Employee Operations Management System\Employee Operations Management System\obj\Debug\net10.0\Employee Operations Management System.csproj.CoreCompileInputs.cache
+D:\.net\ADO.net\Employee Operations Management System\Employee Operations Management System\obj\Debug\net10.0\Employee Operations Management System.sourcelink.json
+D:\.net\ADO.net\Employee Operations Management System\Employee Operations Management System\obj\Debug\net10.0\Employee.6DA33F67.Up2Date
+D:\.net\ADO.net\Employee Operations Management System\Employee Operations Management System\obj\Debug\net10.0\Employee Operations Management System.dll
+D:\.net\ADO.net\Employee Operations Management System\Employee Operations Management System\obj\Debug\net10.0\refint\Employee Operations Management System.dll
+D:\.net\ADO.net\Employee Operations Management System\Employee Operations Management System\obj\Debug\net10.0\Employee Operations Management System.pdb
+D:\.net\ADO.net\Employee Operations Management System\Employee Operations Management System\obj\Debug\net10.0\Employee Operations Management System.genruntimeconfig.cache
+D:\.net\ADO.net\Employee Operations Management System\Employee Operations Management System\obj\Debug\net10.0\ref\Employee Operations Management System.dll
