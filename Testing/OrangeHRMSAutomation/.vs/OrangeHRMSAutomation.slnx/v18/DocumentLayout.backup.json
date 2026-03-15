@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\Testing\\OrangeHRMSAutomation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB751231-D434-4B17-9EEA-3B93D31ED730}|OrangeHRMSAutomation\\OrangeHRMSAutomation.csproj|d:\\.net\\testing\\orangehrmsautomation\\orangehrmsautomation\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB751231-D434-4B17-9EEA-3B93D31ED730}|OrangeHRMSAutomation\\OrangeHRMSAutomation.csproj|solutionrelative:orangehrmsautomation\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB751231-D434-4B17-9EEA-3B93D31ED730}|OrangeHRMSAutomation\\OrangeHRMSAutomation.csproj|d:\\.net\\testing\\orangehrmsautomation\\orangehrmsautomation\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB751231-D434-4B17-9EEA-3B93D31ED730}|OrangeHRMSAutomation\\OrangeHRMSAutomation.csproj|solutionrelative:orangehrmsautomation\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginTest.cs",
+              "DocumentMoniker": "D:\\.net\\Testing\\OrangeHRMSAutomation\\OrangeHRMSAutomation\\LoginTest.cs",
+              "RelativeDocumentMoniker": "OrangeHRMSAutomation\\LoginTest.cs",
+              "ToolTip": "D:\\.net\\Testing\\OrangeHRMSAutomation\\OrangeHRMSAutomation\\LoginTest.cs",
+              "RelativeToolTip": "OrangeHRMSAutomation\\LoginTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T10:01:25.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\.net\\Testing\\OrangeHRMSAutomation\\OrangeHRMSAutomation\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "OrangeHRMSAutomation\\UnitTest1.cs",
+              "ToolTip": "D:\\.net\\Testing\\OrangeHRMSAutomation\\OrangeHRMSAutomation\\UnitTest1.cs",
+              "RelativeToolTip": "OrangeHRMSAutomation\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T09:55:45.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

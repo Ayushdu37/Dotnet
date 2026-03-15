@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\MVC\\LazyLoadingThroughPagination\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A846A32A-1257-25AB-D33F-C57B77CEADA0}|LazyLoadingThroughPagination\\LazyLoadingThroughPagination.csproj|d:\\.net\\mvc\\lazyloadingthroughpagination\\lazyloadingthroughpagination\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A846A32A-1257-25AB-D33F-C57B77CEADA0}|LazyLoadingThroughPagination\\LazyLoadingThroughPagination.csproj|solutionrelative:lazyloadingthroughpagination\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A846A32A-1257-25AB-D33F-C57B77CEADA0}|LazyLoadingThroughPagination\\LazyLoadingThroughPagination.csproj|d:\\.net\\mvc\\lazyloadingthroughpagination\\lazyloadingthroughpagination\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A846A32A-1257-25AB-D33F-C57B77CEADA0}|LazyLoadingThroughPagination\\LazyLoadingThroughPagination.csproj|solutionrelative:lazyloadingthroughpagination\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A846A32A-1257-25AB-D33F-C57B77CEADA0}|LazyLoadingThroughPagination\\LazyLoadingThroughPagination.csproj|d:\\.net\\mvc\\lazyloadingthroughpagination\\lazyloadingthroughpagination\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A846A32A-1257-25AB-D33F-C57B77CEADA0}|LazyLoadingThroughPagination\\LazyLoadingThroughPagination.csproj|solutionrelative:lazyloadingthroughpagination\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A846A32A-1257-25AB-D33F-C57B77CEADA0}|LazyLoadingThroughPagination\\LazyLoadingThroughPagination.csproj|d:\\.net\\mvc\\lazyloadingthroughpagination\\lazyloadingthroughpagination\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A846A32A-1257-25AB-D33F-C57B77CEADA0}|LazyLoadingThroughPagination\\LazyLoadingThroughPagination.csproj|solutionrelative:lazyloadingthroughpagination\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A846A32A-1257-25AB-D33F-C57B77CEADA0}|LazyLoadingThroughPagination\\LazyLoadingThroughPagination.csproj|d:\\.net\\mvc\\lazyloadingthroughpagination\\lazyloadingthroughpagination\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A846A32A-1257-25AB-D33F-C57B77CEADA0}|LazyLoadingThroughPagination\\LazyLoadingThroughPagination.csproj|solutionrelative:lazyloadingthroughpagination\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A846A32A-1257-25AB-D33F-C57B77CEADA0}|LazyLoadingThroughPagination\\LazyLoadingThroughPagination.csproj|d:\\.net\\mvc\\lazyloadingthroughpagination\\lazyloadingthroughpagination\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A846A32A-1257-25AB-D33F-C57B77CEADA0}|LazyLoadingThroughPagination\\LazyLoadingThroughPagination.csproj|solutionrelative:lazyloadingthroughpagination\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A846A32A-1257-25AB-D33F-C57B77CEADA0}|LazyLoadingThroughPagination\\LazyLoadingThroughPagination.csproj|d:\\.net\\mvc\\lazyloadingthroughpagination\\lazyloadingthroughpagination\\migrations\\20260305050949_createstudenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A846A32A-1257-25AB-D33F-C57B77CEADA0}|LazyLoadingThroughPagination\\LazyLoadingThroughPagination.csproj|solutionrelative:lazyloadingthroughpagination\\migrations\\20260305050949_createstudenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.net\\MVC\\LazyLoadingThroughPagination\\LazyLoadingThroughPagination\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "LazyLoadingThroughPagination\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\.net\\MVC\\LazyLoadingThroughPagination\\LazyLoadingThroughPagination\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "LazyLoadingThroughPagination\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-05T05:31:16.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\.net\\MVC\\LazyLoadingThroughPagination\\LazyLoadingThroughPagination\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "LazyLoadingThroughPagination\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\.net\\MVC\\LazyLoadingThroughPagination\\LazyLoadingThroughPagination\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "LazyLoadingThroughPagination\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:27:41.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260305050949_CreateStudentTable.cs",
+              "DocumentMoniker": "D:\\.net\\MVC\\LazyLoadingThroughPagination\\LazyLoadingThroughPagination\\Migrations\\20260305050949_CreateStudentTable.cs",
+              "RelativeDocumentMoniker": "LazyLoadingThroughPagination\\Migrations\\20260305050949_CreateStudentTable.cs",
+              "ToolTip": "D:\\.net\\MVC\\LazyLoadingThroughPagination\\LazyLoadingThroughPagination\\Migrations\\20260305050949_CreateStudentTable.cs",
+              "RelativeToolTip": "LazyLoadingThroughPagination\\Migrations\\20260305050949_CreateStudentTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:09:49.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net\\MVC\\LazyLoadingThroughPagination\\LazyLoadingThroughPagination\\Program.cs",
+              "RelativeDocumentMoniker": "LazyLoadingThroughPagination\\Program.cs",
+              "ToolTip": "D:\\.net\\MVC\\LazyLoadingThroughPagination\\LazyLoadingThroughPagination\\Program.cs",
+              "RelativeToolTip": "LazyLoadingThroughPagination\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:08:14.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\.net\\MVC\\LazyLoadingThroughPagination\\LazyLoadingThroughPagination\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LazyLoadingThroughPagination\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\.net\\MVC\\LazyLoadingThroughPagination\\LazyLoadingThroughPagination\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "LazyLoadingThroughPagination\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:05:38.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\.net\\MVC\\LazyLoadingThroughPagination\\LazyLoadingThroughPagination\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "LazyLoadingThroughPagination\\Models\\Student.cs",
+              "ToolTip": "D:\\.net\\MVC\\LazyLoadingThroughPagination\\LazyLoadingThroughPagination\\Models\\Student.cs",
+              "RelativeToolTip": "LazyLoadingThroughPagination\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:04:25.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.net\\MVC\\LazyLoadingThroughPagination\\LazyLoadingThroughPagination\\appsettings.json",
+              "RelativeDocumentMoniker": "LazyLoadingThroughPagination\\appsettings.json",
+              "ToolTip": "D:\\.net\\MVC\\LazyLoadingThroughPagination\\LazyLoadingThroughPagination\\appsettings.json",
+              "RelativeToolTip": "LazyLoadingThroughPagination\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-05T04:53:33.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

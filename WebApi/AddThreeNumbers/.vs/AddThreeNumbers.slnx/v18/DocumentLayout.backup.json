@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\WebApi\\AddThreeNumbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E24007E-C11D-416A-BF00-87CE46B1ECEF}|AddThreeNumbers\\AddThreeNumbers.csproj|d:\\.net\\webapi\\addthreenumbers\\addthreenumbers\\controllers\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E24007E-C11D-416A-BF00-87CE46B1ECEF}|AddThreeNumbers\\AddThreeNumbers.csproj|solutionrelative:addthreenumbers\\controllers\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add.cs",
+              "DocumentMoniker": "D:\\.net\\WebApi\\AddThreeNumbers\\AddThreeNumbers\\Controllers\\Add.cs",
+              "RelativeDocumentMoniker": "AddThreeNumbers\\Controllers\\Add.cs",
+              "ToolTip": "D:\\.net\\WebApi\\AddThreeNumbers\\AddThreeNumbers\\Controllers\\Add.cs",
+              "RelativeToolTip": "AddThreeNumbers\\Controllers\\Add.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T07:03:28.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

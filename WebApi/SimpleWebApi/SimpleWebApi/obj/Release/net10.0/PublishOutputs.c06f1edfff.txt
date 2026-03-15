@@ -1,0 +1,9 @@
+D:\.net\WebApi\SimpleWebApi\SimpleWebApi\obj\Release\net10.0\PubTmp\Out\SimpleWebApi.exe
+D:\.net\WebApi\SimpleWebApi\SimpleWebApi\obj\Release\net10.0\PubTmp\Out\appsettings.Development.json
+D:\.net\WebApi\SimpleWebApi\SimpleWebApi\obj\Release\net10.0\PubTmp\Out\appsettings.json
+D:\.net\WebApi\SimpleWebApi\SimpleWebApi\obj\Release\net10.0\PubTmp\Out\SimpleWebApi.dll
+D:\.net\WebApi\SimpleWebApi\SimpleWebApi\obj\Release\net10.0\PubTmp\Out\SimpleWebApi.deps.json
+D:\.net\WebApi\SimpleWebApi\SimpleWebApi\obj\Release\net10.0\PubTmp\Out\SimpleWebApi.runtimeconfig.json
+D:\.net\WebApi\SimpleWebApi\SimpleWebApi\obj\Release\net10.0\PubTmp\Out\SimpleWebApi.pdb
+D:\.net\WebApi\SimpleWebApi\SimpleWebApi\obj\Release\net10.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+D:\.net\WebApi\SimpleWebApi\SimpleWebApi\obj\Release\net10.0\PubTmp\Out\Microsoft.OpenApi.dll

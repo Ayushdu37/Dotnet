@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\WebApi\\APIVersioning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{792C4D11-9985-485C-9107-BA2AC8CDC201}|APIVersioning\\APIVersioning.csproj|d:\\.net\\webapi\\apiversioning\\apiversioning\\controllers\\studentv2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{792C4D11-9985-485C-9107-BA2AC8CDC201}|APIVersioning\\APIVersioning.csproj|solutionrelative:apiversioning\\controllers\\studentv2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{792C4D11-9985-485C-9107-BA2AC8CDC201}|APIVersioning\\APIVersioning.csproj|d:\\.net\\webapi\\apiversioning\\apiversioning\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{792C4D11-9985-485C-9107-BA2AC8CDC201}|APIVersioning\\APIVersioning.csproj|solutionrelative:apiversioning\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{792C4D11-9985-485C-9107-BA2AC8CDC201}|APIVersioning\\APIVersioning.csproj|d:\\.net\\webapi\\apiversioning\\apiversioning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{792C4D11-9985-485C-9107-BA2AC8CDC201}|APIVersioning\\APIVersioning.csproj|solutionrelative:apiversioning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentV2Controller.cs",
+              "DocumentMoniker": "D:\\.net\\WebApi\\APIVersioning\\APIVersioning\\Controllers\\StudentV2Controller.cs",
+              "RelativeDocumentMoniker": "APIVersioning\\Controllers\\StudentV2Controller.cs",
+              "ToolTip": "D:\\.net\\WebApi\\APIVersioning\\APIVersioning\\Controllers\\StudentV2Controller.cs",
+              "RelativeToolTip": "APIVersioning\\Controllers\\StudentV2Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T09:03:34.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net\\WebApi\\APIVersioning\\APIVersioning\\Program.cs",
+              "RelativeDocumentMoniker": "APIVersioning\\Program.cs",
+              "ToolTip": "D:\\.net\\WebApi\\APIVersioning\\APIVersioning\\Program.cs",
+              "RelativeToolTip": "APIVersioning\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T08:58:52.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\.net\\WebApi\\APIVersioning\\APIVersioning\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "APIVersioning\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\.net\\WebApi\\APIVersioning\\APIVersioning\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "APIVersioning\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T08:56:56.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

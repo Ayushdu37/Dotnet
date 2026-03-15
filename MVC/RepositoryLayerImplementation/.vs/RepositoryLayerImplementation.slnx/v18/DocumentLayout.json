@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\MVC\\RepositoryLayerImplementation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73E787A9-0098-4222-9C03-18ACA00242DE}|RepositoryLayerImplementation\\RepositoryLayerImplementation.csproj|d:\\.net\\mvc\\repositorylayerimplementation\\repositorylayerimplementation\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E787A9-0098-4222-9C03-18ACA00242DE}|RepositoryLayerImplementation\\RepositoryLayerImplementation.csproj|solutionrelative:repositorylayerimplementation\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.net\\MVC\\RepositoryLayerImplementation\\RepositoryLayerImplementation\\Migrations\\20260307065754_UpdateSeedData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RepositoryLayerImplementation\\Migrations\\20260307065754_UpdateSeedData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.net\\MVC\\RepositoryLayerImplementation\\RepositoryLayerImplementation\\Migrations\\20260307065559_SeedBookData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RepositoryLayerImplementation\\Migrations\\20260307065559_SeedBookData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.net\\MVC\\RepositoryLayerImplementation\\RepositoryLayerImplementation\\Migrations\\20260307065437_FluentBookConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RepositoryLayerImplementation\\Migrations\\20260307065437_FluentBookConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E787A9-0098-4222-9C03-18ACA00242DE}|RepositoryLayerImplementation\\RepositoryLayerImplementation.csproj|d:\\.net\\mvc\\repositorylayerimplementation\\repositorylayerimplementation\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E787A9-0098-4222-9C03-18ACA00242DE}|RepositoryLayerImplementation\\RepositoryLayerImplementation.csproj|solutionrelative:repositorylayerimplementation\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.net\\MVC\\RepositoryLayerImplementation\\RepositoryLayerImplementation\\Migrations\\20260307064904_UpdateBookModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RepositoryLayerImplementation\\Migrations\\20260307064904_UpdateBookModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E787A9-0098-4222-9C03-18ACA00242DE}|RepositoryLayerImplementation\\RepositoryLayerImplementation.csproj|d:\\.net\\mvc\\repositorylayerimplementation\\repositorylayerimplementation\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E787A9-0098-4222-9C03-18ACA00242DE}|RepositoryLayerImplementation\\RepositoryLayerImplementation.csproj|solutionrelative:repositorylayerimplementation\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E787A9-0098-4222-9C03-18ACA00242DE}|RepositoryLayerImplementation\\RepositoryLayerImplementation.csproj|d:\\.net\\mvc\\repositorylayerimplementation\\repositorylayerimplementation\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E787A9-0098-4222-9C03-18ACA00242DE}|RepositoryLayerImplementation\\RepositoryLayerImplementation.csproj|solutionrelative:repositorylayerimplementation\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E787A9-0098-4222-9C03-18ACA00242DE}|RepositoryLayerImplementation\\RepositoryLayerImplementation.csproj|d:\\.net\\mvc\\repositorylayerimplementation\\repositorylayerimplementation\\repositories\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E787A9-0098-4222-9C03-18ACA00242DE}|RepositoryLayerImplementation\\RepositoryLayerImplementation.csproj|solutionrelative:repositorylayerimplementation\\repositories\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.net\\MVC\\RepositoryLayerImplementation\\RepositoryLayerImplementation\\Migrations\\20260307064331_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RepositoryLayerImplementation\\Migrations\\20260307064331_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E787A9-0098-4222-9C03-18ACA00242DE}|RepositoryLayerImplementation\\RepositoryLayerImplementation.csproj|d:\\.net\\mvc\\repositorylayerimplementation\\repositorylayerimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E787A9-0098-4222-9C03-18ACA00242DE}|RepositoryLayerImplementation\\RepositoryLayerImplementation.csproj|solutionrelative:repositorylayerimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E787A9-0098-4222-9C03-18ACA00242DE}|RepositoryLayerImplementation\\RepositoryLayerImplementation.csproj|d:\\.net\\mvc\\repositorylayerimplementation\\repositorylayerimplementation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73E787A9-0098-4222-9C03-18ACA00242DE}|RepositoryLayerImplementation\\RepositoryLayerImplementation.csproj|solutionrelative:repositorylayerimplementation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260307065754_UpdateSeedData.cs",
+              "DocumentMoniker": "D:\\.net\\MVC\\RepositoryLayerImplementation\\RepositoryLayerImplementation\\Migrations\\20260307065754_UpdateSeedData.cs",
+              "RelativeDocumentMoniker": "RepositoryLayerImplementation\\Migrations\\20260307065754_UpdateSeedData.cs",
+              "ToolTip": "D:\\.net\\MVC\\RepositoryLayerImplementation\\RepositoryLayerImplementation\\Migrations\\20260307065754_UpdateSeedData.cs",
+              "RelativeToolTip": "RepositoryLayerImplementation\\Migrations\\20260307065754_UpdateSeedData.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T06:57:54.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260307065559_SeedBookData.cs",
+              "DocumentMoniker": "D:\\.net\\MVC\\RepositoryLayerImplementation\\RepositoryLayerImplementation\\Migrations\\20260307065559_SeedBookData.cs",
+              "RelativeDocumentMoniker": "RepositoryLayerImplementation\\Migrations\\20260307065559_SeedBookData.cs",
+              "ToolTip": "D:\\.net\\MVC\\RepositoryLayerImplementation\\RepositoryLayerImplementation\\Migrations\\20260307065559_SeedBookData.cs",
+              "RelativeToolTip": "RepositoryLayerImplementation\\Migrations\\20260307065559_SeedBookData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T06:55:59.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260307065437_FluentBookConfig.cs",
+              "DocumentMoniker": "D:\\.net\\MVC\\RepositoryLayerImplementation\\RepositoryLayerImplementation\\Migrations\\20260307065437_FluentBookConfig.cs",
+              "RelativeDocumentMoniker": "RepositoryLayerImplementation\\Migrations\\20260307065437_FluentBookConfig.cs",
+              "ToolTip": "D:\\.net\\MVC\\RepositoryLayerImplementation\\RepositoryLayerImplementation\\Migrations\\20260307065437_FluentBookConfig.cs",
+              "RelativeToolTip": "RepositoryLayerImplementation\\Migrations\\20260307065437_FluentBookConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T06:54:38.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260307064904_UpdateBookModel.cs",
+              "DocumentMoniker": "D:\\.net\\MVC\\RepositoryLayerImplementation\\RepositoryLayerImplementation\\Migrations\\20260307064904_UpdateBookModel.cs",
+              "RelativeDocumentMoniker": "RepositoryLayerImplementation\\Migrations\\20260307064904_UpdateBookModel.cs",
+              "ToolTip": "D:\\.net\\MVC\\RepositoryLayerImplementation\\RepositoryLayerImplementation\\Migrations\\20260307064904_UpdateBookModel.cs",
+              "RelativeToolTip": "RepositoryLayerImplementation\\Migrations\\20260307064904_UpdateBookModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T06:49:05.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260307064331_InitialCreate.cs",
+              "DocumentMoniker": "D:\\.net\\MVC\\RepositoryLayerImplementation\\RepositoryLayerImplementation\\Migrations\\20260307064331_InitialCreate.cs",
+              "RelativeDocumentMoniker": "RepositoryLayerImplementation\\Migrations\\20260307064331_InitialCreate.cs",
+              "ToolTip": "D:\\.net\\MVC\\RepositoryLayerImplementation\\RepositoryLayerImplementation\\Migrations\\20260307064331_InitialCreate.cs",
+              "RelativeToolTip": "RepositoryLayerImplementation\\Migrations\\20260307064331_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T06:43:31.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.net\\MVC\\RepositoryLayerImplementation\\RepositoryLayerImplementation\\appsettings.json",
+              "RelativeDocumentMoniker": "RepositoryLayerImplementation\\appsettings.json",
+              "ToolTip": "D:\\.net\\MVC\\RepositoryLayerImplementation\\RepositoryLayerImplementation\\appsettings.json",
+              "RelativeToolTip": "RepositoryLayerImplementation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-07T06:41:27.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\.net\\MVC\\RepositoryLayerImplementation\\RepositoryLayerImplementation\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RepositoryLayerImplementation\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\.net\\MVC\\RepositoryLayerImplementation\\RepositoryLayerImplementation\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RepositoryLayerImplementation\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T06:36:02.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net\\MVC\\RepositoryLayerImplementation\\RepositoryLayerImplementation\\Program.cs",
+              "RelativeDocumentMoniker": "RepositoryLayerImplementation\\Program.cs",
+              "ToolTip": "D:\\.net\\MVC\\RepositoryLayerImplementation\\RepositoryLayerImplementation\\Program.cs",
+              "RelativeToolTip": "RepositoryLayerImplementation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T06:17:01.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\.net\\MVC\\RepositoryLayerImplementation\\RepositoryLayerImplementation\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "RepositoryLayerImplementation\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\.net\\MVC\\RepositoryLayerImplementation\\RepositoryLayerImplementation\\Controllers\\BookController.cs",
+              "RelativeToolTip": "RepositoryLayerImplementation\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T06:15:18.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\.net\\MVC\\RepositoryLayerImplementation\\RepositoryLayerImplementation\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayerImplementation\\Repositories\\BookRepository.cs",
+              "ToolTip": "D:\\.net\\MVC\\RepositoryLayerImplementation\\RepositoryLayerImplementation\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "RepositoryLayerImplementation\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T06:14:11.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\.net\\MVC\\RepositoryLayerImplementation\\RepositoryLayerImplementation\\Repositories\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayerImplementation\\Repositories\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "D:\\.net\\MVC\\RepositoryLayerImplementation\\RepositoryLayerImplementation\\Repositories\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "RepositoryLayerImplementation\\Repositories\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T06:13:43.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Books.cs",
+              "DocumentMoniker": "D:\\.net\\MVC\\RepositoryLayerImplementation\\RepositoryLayerImplementation\\Models\\Books.cs",
+              "RelativeDocumentMoniker": "RepositoryLayerImplementation\\Models\\Books.cs",
+              "ToolTip": "D:\\.net\\MVC\\RepositoryLayerImplementation\\RepositoryLayerImplementation\\Models\\Books.cs",
+              "RelativeToolTip": "RepositoryLayerImplementation\\Models\\Books.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T06:12:37.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
